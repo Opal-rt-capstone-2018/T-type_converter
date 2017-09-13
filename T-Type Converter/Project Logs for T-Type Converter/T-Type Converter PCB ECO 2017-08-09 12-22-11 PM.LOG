@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=R5_U_Switches1 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R5_U_Switches2 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R5_U_Switches3 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R6_U_Switches1 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R6_U_Switches2 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R7_U_Switches1 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R7_U_Switches2 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R7_U_Switches3 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R8_U_Switches1 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R8_U_Switches2 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Change Component Footprint: Designator=R8_U_Switches3 Old Footprint=AXIAL-0.6 New Footprint=CT-6EP
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Room: Name=Main
+Added Room: Name=U_Signals
+Added Room: Name=U_Switches1
+Added Room: Name=U_Switches2
+Added Room: Name=U_Switches3

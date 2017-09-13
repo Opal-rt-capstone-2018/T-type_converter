@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=12V Pin=C2-2
+Removed Pin From Net: NetName=12V Pin=C4-2
+Removed Pin From Net: NetName=12V Pin=C6-2
+Removed Pin From Net: NetName=12V Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=12V Pin=U1_U_Switches3-1
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=12V Pin=U2_U_Switches3-1
+Removed Pin From Net: NetName=12V Pin=U3_U_Switches3-1
+Removed Pin From Net: NetName=12V Pin=U4_U_Switches3-1
+Removed Pin From Net: NetName=NetC14_U_Switches1_1 Pin=U5-7
+Removed Pin From Net: NetName=NetC14_U_Switches2_1 Pin=U5-7
+Removed Pin From Net: NetName=NetC14_U_Switches3_1 Pin=U5-7
+Removed Pin From Net: NetName=NetC13_U_Switches1_1 Pin=U6-7
+Removed Pin From Net: NetName=NetC13_U_Switches2_1 Pin=U6-7
+Removed Pin From Net: NetName=NetC13_U_Switches3_1 Pin=U6-7
+Removed Pin From Net: NetName=NetC13_U_Switches1_1 Pin=U7-7
+Removed Pin From Net: NetName=NetC13_U_Switches2_1 Pin=U7-7
+Removed Pin From Net: NetName=NetC13_U_Switches3_1 Pin=U7-7
+Removed Pin From Net: NetName=GND Pin=U8-7
+Removed Pin From Net: NetName=GND Pin=U8-7
+Removed Pin From Net: NetName=GND Pin=U8-7
+Change component parameters: Designator = "U1"; Footprint = "PID DC-DC Converter - duplicate"; UniqueID = "\PTVLSKXP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/0323_02838307"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/0323_02838307"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1763516.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1763516.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://uk.rs-online.com/webdocs/0e35/0900766b80e35ed7.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://uk.rs-online.com/webdocs/0e35/0900766b80e35ed7.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://docs-usa.electrocomponents.com/techlib:/itc_doclist_US.htm?stockno=7065629"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://docs-usa.electrocomponents.com/techlib:/itc_doclist_US.htm?stockno=7065629"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Output 1"; Value = "125mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Output 2"; Value = "125mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "18.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Efficiency"; Value = "82%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isolation"; Value = "Isolated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isolation Voltage"; Value = "1.5kV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "18.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Traco Power"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TDR3-4822"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "125mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Power"; Value = "3W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Input Voltage"; Value = "36V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Input Voltage (DC)"; Value = "36V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Input Voltage"; Value = "48V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Output Voltage"; Value = "-12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "125mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=31.75, 25=29.09, 50=27.03, 100=26.14, 250=25.25 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "20X0418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Output 1"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Output 2"; Value = "-12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "12.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=NetC14_U_Switches1_1 Pin=U5-9
+Added Pin To Net: NetName=NetC14_U_Switches2_1 Pin=U5-9
+Added Pin To Net: NetName=NetC14_U_Switches3_1 Pin=U5-9
+Added Pin To Net: NetName=NetC13_U_Switches1_1 Pin=U6-9
+Added Pin To Net: NetName=NetC13_U_Switches2_1 Pin=U6-9
+Added Pin To Net: NetName=NetC13_U_Switches3_1 Pin=U6-9
+Added Pin To Net: NetName=NetC13_U_Switches1_1 Pin=U7-9
+Added Pin To Net: NetName=NetC13_U_Switches2_1 Pin=U7-9
+Added Pin To Net: NetName=NetC13_U_Switches3_1 Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U8-9
+Change Net Name : Old Net Name=12V New Net Name=12V_U_Switches1
+Added Pin To Net: NetName=12V_U_Switches3 Pin=C2-2
+Added Pin To Net: NetName=12V_U_Switches3 Pin=C4-2
+Added Pin To Net: NetName=12V_U_Switches3 Pin=C6-2
+Added Pin To Net: NetName=12V_U_Switches3 Pin=C8-2
+Added Pin To Net: NetName=12V_U_Switches3 Pin=U1_U_Switches3-1
+Added Pin To Net: NetName=12V_U_Switches3 Pin=U2_U_Switches3-1
+Added Pin To Net: NetName=12V_U_Switches3 Pin=U3_U_Switches3-1
+Added Pin To Net: NetName=12V_U_Switches3 Pin=U4_U_Switches3-1
+Added Net: Name=12V_U_Switches3
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E

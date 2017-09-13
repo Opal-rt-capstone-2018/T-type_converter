@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=U_Signals Member=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C31
+Change Component Designator: OldDesignator=C28 NewDesignator=C30
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=Main Member=Component C23 Cap
+Added Member To Class: ClassName=Main Member=Component C24 Cap
+Added Member To Class: ClassName=U_Signals Member=Component C31 Cap

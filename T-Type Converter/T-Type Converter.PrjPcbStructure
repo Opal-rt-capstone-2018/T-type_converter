@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Signals|SchDesignator=U_Signals|FileName=Signals.SchDoc|SymbolType=Normal|RawFileName=Signals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Switches|SchDesignator=U_Switches|FileName=Switches.SchDoc|SymbolType=Normal|RawFileName=Switches.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Switches|SchDesignator=U_Switches|FileName=Switches.SchDoc|SymbolType=Normal|RawFileName=Switches.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Switches|SchDesignator=U_Switches|FileName=Switches.SchDoc|SymbolType=Normal|RawFileName=Switches.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

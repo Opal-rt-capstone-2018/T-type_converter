@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=48V Pin=P13-1
+Removed Pin From Net: NetName=48V Pin=P13-1
+Removed Pin From Net: NetName=48V Pin=P13-2
+Removed Pin From Net: NetName=48V Pin=P13-2
+Removed Pin From Net: NetName=NetC14_1 Pin=P15-1
+Removed Pin From Net: NetName=NetC14_1 Pin=P15-1
+Removed Pin From Net: NetName=NetC14_1 Pin=P15-2
+Removed Pin From Net: NetName=NetC14_1 Pin=P15-2
+Removed Pin From Net: NetName=NetC15_2 Pin=P17-1
+Removed Pin From Net: NetName=NetC15_2 Pin=P17-1
+Removed Pin From Net: NetName=NetC15_2 Pin=P17-2
+Removed Pin From Net: NetName=NetC15_2 Pin=P17-2
+Added Component: Designator=F1(Fuse footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Body Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/295/littelfuse-fuse-clips-295529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/295/littelfuse-fuse-clips-295529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "30A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "9.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "01220093Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper,Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Horizontal,PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.72, 5=0.696, 10=0.674, 50=0.5672, 100=0.4708, 250=0.428, 500=0.3638, 1000=0.321, 5000=0.2889 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10489"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "F4185-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7.87mm"; VariantName = "[No Variations]"
+Added Component: Designator=F2(Fuse footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Body Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/295/littelfuse-fuse-clips-295529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/295/littelfuse-fuse-clips-295529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "30A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "9.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "01220093Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper,Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Horizontal,PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.72, 5=0.696, 10=0.674, 50=0.5672, 100=0.4708, 250=0.428, 500=0.3638, 1000=0.321, 5000=0.2889 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10489"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "F4185-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7.87mm"; VariantName = "[No Variations]"
+Added Component: Designator=F3(Fuse footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Body Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/295/littelfuse-fuse-clips-295529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/295/littelfuse-fuse-clips-295529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "30A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "9.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "01220093Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper,Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Horizontal,PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.72, 5=0.696, 10=0.674, 50=0.5672, 100=0.4708, 250=0.428, 500=0.3638, 1000=0.321, 5000=0.2889 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10489"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "F4185-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7.87mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_1 Pin=F1-2
+Added Pin To Net: NetName=NetC14_1 Pin=F1-2
+Added Pin To Net: NetName=NetC15_2 Pin=F2-1
+Added Pin To Net: NetName=NetC15_2 Pin=F2-1
+Added Pin To Net: NetName=48V Pin=F3-2
+Added Pin To Net: NetName=48V Pin=F3-2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=P15-1
+Added Pin To Net: NetName=NetF1_1 Pin=P15-1
+Added Pin To Net: NetName=NetF1_1 Pin=P15-2
+Added Pin To Net: NetName=NetF1_1 Pin=P15-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=P17-1
+Added Pin To Net: NetName=NetF2_2 Pin=P17-1
+Added Pin To Net: NetName=NetF2_2 Pin=P17-2
+Added Pin To Net: NetName=NetF2_2 Pin=P17-2
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=P13-1
+Added Pin To Net: NetName=NetF3_1 Pin=P13-1
+Added Pin To Net: NetName=NetF3_1 Pin=P13-2
+Added Pin To Net: NetName=NetF3_1 Pin=P13-2
+Added Net: Name=NetF3_1
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=Main Member=Component F1 Fuse Holder
+Added Member To Class: ClassName=Main Member=Component F2 Fuse Holder
+Added Member To Class: ClassName=Main Member=Component F3 Fuse Holder
+Added Member To Class: ClassName=HV Member=Wire NetF1_1
+Added Member To Class: ClassName=HV Member=Wire NetF2_2

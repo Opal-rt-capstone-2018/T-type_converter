@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=F3 Old Footprint=Fuse footprint New Footprint=Small Fuse Holder
+Added Pin To Net: NetName=GND Pin=U1_U_Switches1-6
+Added Pin To Net: NetName=GND Pin=U1_U_Switches2-6
+Added Pin To Net: NetName=GND Pin=U1_U_Switches3-6
+Added Pin To Net: NetName=GND Pin=U2_U_Switches1-6
+Added Pin To Net: NetName=GND Pin=U2_U_Switches2-6
+Added Pin To Net: NetName=GND Pin=U2_U_Switches3-6
+Added Pin To Net: NetName=GND Pin=U3_U_Switches1-6
+Added Pin To Net: NetName=GND Pin=U3_U_Switches2-6
+Added Pin To Net: NetName=GND Pin=U3_U_Switches3-6
+Added Pin To Net: NetName=GND Pin=U4_U_Switches1-6
+Added Pin To Net: NetName=GND Pin=U4_U_Switches2-6
+Added Pin To Net: NetName=GND Pin=U4_U_Switches3-6
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E

@@ -1,0 +1,226 @@
+Removed Member From Class: ClassName=U_Switches1 Member=C2
+Removed Member From Class: ClassName=U_Switches2 Member=C2
+Removed Member From Class: ClassName=U_Switches1 Member=C4
+Removed Member From Class: ClassName=U_Switches2 Member=C4
+Removed Member From Class: ClassName=U_Switches1 Member=C6
+Removed Member From Class: ClassName=U_Switches2 Member=C6
+Removed Member From Class: ClassName=U_Switches1 Member=C8
+Removed Member From Class: ClassName=U_Switches2 Member=C8
+Removed Member From Class: ClassName=U_Switches1 Member=C9
+Removed Member From Class: ClassName=U_Switches2 Member=C9
+Removed Member From Class: ClassName=U_Switches1 Member=C10
+Removed Member From Class: ClassName=U_Switches2 Member=C10
+Removed Member From Class: ClassName=U_Switches1 Member=C11
+Removed Member From Class: ClassName=U_Switches2 Member=C11
+Removed Member From Class: ClassName=U_Switches1 Member=C12
+Removed Member From Class: ClassName=U_Switches2 Member=C12
+Removed Member From Class: ClassName=U_Switches3 Member=C12
+Removed Member From Class: ClassName=U_Switches1 Member=C13
+Removed Member From Class: ClassName=U_Switches2 Member=C13
+Removed Member From Class: ClassName=U_Switches1 Member=C14
+Removed Member From Class: ClassName=U_Switches2 Member=C14
+Removed Member From Class: ClassName=U_Switches1 Member=C15
+Removed Member From Class: ClassName=U_Switches2 Member=C15
+Removed Member From Class: ClassName=U_Switches1 Member=C16
+Removed Member From Class: ClassName=U_Switches2 Member=C16
+Removed Member From Class: ClassName=U_Switches1 Member=U5
+Removed Member From Class: ClassName=U_Switches2 Member=U5
+Removed Member From Class: ClassName=U_Switches1 Member=U6
+Removed Member From Class: ClassName=U_Switches2 Member=U6
+Removed Member From Class: ClassName=U_Switches1 Member=U7
+Removed Member From Class: ClassName=U_Switches2 Member=U7
+Removed Member From Class: ClassName=U_Switches1 Member=U8
+Removed Member From Class: ClassName=U_Switches2 Member=U8
+Added Component: Designator=C13(R_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "750uF"; VariantName = "[No Variations]"
+Added Component: Designator=L6(TCK-047)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10mH"; VariantName = "[No Variations]"
+Added Component: Designator=P13(Terminal Pad)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/6752/1991095-6752880.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/6752/1991095-6752880.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16051/1991095-16051374.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16051/1991095-16051374.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/29222/774864-da-01-en-printklemme-1991095-100-st-29222380.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/29222/774864-da-01-en-printklemme-1991095-100-st-29222380.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "24A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1991095"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "24A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.13, 10=1.078, 50=1.0486, 100=0.98, 250=0.9016, 500=0.833, 1000=0.7938, 2500=0.7448 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-6267-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screwless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.102294oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "14.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Max)"; Value = "24AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Min)"; Value = "12AWG"; VariantName = "[No Variations]"
+Added Component: Designator=P14(Terminal Pad)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/6752/1991095-6752880.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/6752/1991095-6752880.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16051/1991095-16051374.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16051/1991095-16051374.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/29222/774864-da-01-en-printklemme-1991095-100-st-29222380.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/29222/774864-da-01-en-printklemme-1991095-100-st-29222380.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "24A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1991095"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "24A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.13, 10=1.078, 50=1.0486, 100=0.98, 250=0.9016, 500=0.833, 1000=0.7938, 2500=0.7448 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-6267-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screwless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.102294oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "14.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Max)"; Value = "24AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Min)"; Value = "12AWG"; VariantName = "[No Variations]"
+Added Component: Designator=U2(PID DC-DC Converter - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/28438/1763516-28438522.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/28438/1763516-28438522.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output 1"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "18.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Efficiency"; Value = "81%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "Isolated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation Voltage"; Value = "1.5kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "18.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Traco Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TDR3-4811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Power"; Value = "3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage (DC)"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Input Voltage"; Value = "48V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=31.28, 10=29.54, 50=25.71, 100=25.71, 1000=25.71, 10000=25.71 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "495-TDR3-4811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output 1"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C9-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C9-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C10-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C10-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C11-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C11-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C12-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C12-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=C13-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L1_U_Switches2-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L1_U_Switches3-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L2_U_Switches2-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L2_U_Switches3-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L3_U_Switches2-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L3_U_Switches3-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L4_U_Switches2-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L4-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L5-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=L6-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=P13-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=P13-1
+Added Pin To Net: NetName=48V_U_Switches1 Pin=P13-2
+Added Pin To Net: NetName=48V_U_Switches1 Pin=P13-2
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=5V Pin=U2-8
+Change Net Name : Old Net Name=48V_U_Switches1 New Net Name=48V
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=NetL6_2 Pin=U2-14
+Added Net: Name=NetL6_2
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=Main Member=Component C13 Cap
+Added Member To Class: ClassName=Main Member=Component L6 Inductor
+Added Member To Class: ClassName=Main Member=Component P13 1991095
+Added Member To Class: ClassName=Main Member=Component P14 1991095
+Added Member To Class: ClassName=Main Member=Component U2 TDR 3-4811

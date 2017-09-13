@@ -1,0 +1,100 @@
+Change Physical Footprint: Designator=*_U_Switches1 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches1 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches1 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches1 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches2 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches2 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches2 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches2 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches3 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches3 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches3 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=*_U_Switches3 Old Footprint=Heatsink New Footprint=Heatsink
+Change Physical Footprint: Designator=D1_U_Switches1 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D1_U_Switches2 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D1_U_Switches3 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D2_U_Switches1 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D2_U_Switches2 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D2_U_Switches3 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D3_U_Switches1 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D3_U_Switches2 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D3_U_Switches3 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D4_U_Switches1 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D4_U_Switches2 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=D4_U_Switches3 Old Footprint=DO-35_02 New Footprint=DO-35_02
+Change Physical Footprint: Designator=P1 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P2 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P3 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P4 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P5 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P6 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P7 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P8 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P9 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P10 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P11 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P12 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P13 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P14 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P15 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P16 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=P17 Old Footprint=Terminal Pad New Footprint=Terminal Pad
+Change Physical Footprint: Designator=Q1_U_Switches1 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q1_U_Switches2 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q1_U_Switches3 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q2_U_Switches1 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q2_U_Switches2 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q2_U_Switches3 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q3_U_Switches1 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q3_U_Switches2 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q3_U_Switches3 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q4_U_Switches1 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q4_U_Switches2 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=Q4_U_Switches3 Old Footprint=TO-264 AA New Footprint=TO-264 AA
+Change Physical Footprint: Designator=R5_U_Switches1 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R5_U_Switches2 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R5_U_Switches3 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R6_U_Switches1 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R6_U_Switches2 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R6_U_Switches3 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R7_U_Switches1 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R7_U_Switches2 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R7_U_Switches3 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R8_U_Switches1 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R8_U_Switches2 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=R8_U_Switches3 Old Footprint=CT-6EP New Footprint=CT-6EP
+Change Physical Footprint: Designator=T1 Old Footprint=Optics New Footprint=Optics
+Change Physical Footprint: Designator=T2 Old Footprint=Optics New Footprint=Optics
+Change Physical Footprint: Designator=T3 Old Footprint=Optics New Footprint=Optics
+Change Physical Footprint: Designator=T4 Old Footprint=Optics New Footprint=Optics
+Change Physical Footprint: Designator=T5 Old Footprint=Optics New Footprint=Optics
+Change Physical Footprint: Designator=T6 Old Footprint=Optics New Footprint=Optics
+Change Physical Footprint: Designator=U1 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U1 Old Footprint=R-PDIP-T20 New Footprint=R-PDIP-T20
+Change Physical Footprint: Designator=U1_U_Switches1 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U1_U_Switches2 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U1_U_Switches3 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U2 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U2 Old Footprint=R-PDIP-T16 New Footprint=R-PDIP-T16
+Change Physical Footprint: Designator=U2_U_Switches1 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U2_U_Switches2 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U2_U_Switches3 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U3 Old Footprint=R-PDIP-T16 New Footprint=R-PDIP-T16
+Change Physical Footprint: Designator=U3_U_Switches1 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U3_U_Switches2 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U3_U_Switches3 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U4_U_Switches1 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U4_U_Switches2 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U4_U_Switches3 Old Footprint=DIP14 New Footprint=DIP14
+Change Physical Footprint: Designator=U5 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U5 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U5 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U6 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U6 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U6 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U7 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U7 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U7 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U8 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U8 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate
+Change Physical Footprint: Designator=U8 Old Footprint=PID DC-DC Converter - duplicate New Footprint=PID DC-DC Converter - duplicate

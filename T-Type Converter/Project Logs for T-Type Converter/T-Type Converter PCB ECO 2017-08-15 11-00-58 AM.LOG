@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=U_Switches3 Member=C2
+Removed Member From Class: ClassName=U_Switches3 Member=C4
+Removed Member From Class: ClassName=U_Switches3 Member=C6
+Removed Member From Class: ClassName=U_Switches3 Member=C8
+Removed Member From Class: ClassName=U_Switches3 Member=C9
+Removed Member From Class: ClassName=U_Switches3 Member=C10
+Removed Member From Class: ClassName=U_Switches3 Member=C11
+Removed Member From Class: ClassName=U_Switches3 Member=C13
+Removed Member From Class: ClassName=U_Switches3 Member=C14
+Removed Member From Class: ClassName=U_Switches3 Member=C15
+Removed Member From Class: ClassName=U_Switches3 Member=U5
+Removed Member From Class: ClassName=U_Switches3 Member=U6
+Removed Member From Class: ClassName=U_Switches3 Member=U7
+Removed Member From Class: ClassName=U_Switches3 Member=U8
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches1 Member=Component *_U_Switches1 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches2 Member=Component *_U_Switches2 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Switches3 Member=Component *_U_Switches3 (*) WA-T264-101E
+Added Member To Class: ClassName=U_Signals Member=Component T6 RX

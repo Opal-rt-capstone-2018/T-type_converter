@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=Q2_U_Switches2-3
+Added Pin To Net: NetName=NetC13_U_Switches2_1 Pin=Q2_U_Switches2-3
