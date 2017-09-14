@@ -1,0 +1,17 @@
+GIT hints
+
+When beginning work:
+- Do a "git pull" to ensure local version is current with branch head
+- Do stuff!!!!
+
+When you're content with what you've done:
+- Do a "git status" to see what you've changed
+	if you've made a new file not currently tracked:
+		- Do a git add "filename"
+	add all changes
+	- 	Do a "git add -u"
+	commit your changes:
+	-	Do a "git commit -m 'enter message for traceability'"
+	push your changes
+	- Do a "git push"
+	
