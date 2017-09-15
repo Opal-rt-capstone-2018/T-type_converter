@@ -1,0 +1,7 @@
+Notes:
+
+- ground pour on bottom layer
+- 48V power filtering on-board
+- heat sink models
+- reverse 48V protection?
+- gate drive buck regulator ground return, too long
