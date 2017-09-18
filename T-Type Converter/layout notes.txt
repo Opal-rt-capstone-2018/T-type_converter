@@ -5,3 +5,12 @@ Notes:
 - heat sink models
 - reverse 48V protection?
 - gate drive buck regulator ground return, too long
+- fuse holder clearances?
+- high-side drain connectors? maybe move to central location
+- test points?
+
+bus bars:
+	https://lugsdirect.com/SMT-Surface-Mount-Technology-PrintedCircuitBoard-PCB-WireTerminalLugs-IHI.html
+	- B2C-PCB-SMT
+	- B1/0-PCB
+
