@@ -1,0 +1,43 @@
+*************************************************************
+FileName = Half-bridge_eval.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Half-bridge_eval.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Half-bridge_eval.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D17
+*************************************************************
+

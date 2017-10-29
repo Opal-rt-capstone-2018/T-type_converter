@@ -1,0 +1,14 @@
+Added Net: Name=12V
+Added Net: Name=48V
+Added Net: Name=GND
+Added Net: Name=HIGH-SIDE
+Added Net: Name=NetD1_1
+Added Net: Name=NetD1_2
+Added Net: Name=NetL1_2
+Added Net: Name=NetR2_2
+Added Net: Name=NetU1_8
+Added Net: Name=NetU2_2
+Added Net: Name=SD
+Added Class: Name=Gate-drive
+Added Class: Name=HV
+Added Room: Name=Gate-drive

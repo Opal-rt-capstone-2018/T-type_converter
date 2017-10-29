@@ -1,0 +1,51 @@
+Added Component: Designator=C1(C4532)
+Added Component: Designator=C2(LS 1808)
+Added Component: Designator=C3(C4532)
+Added Component: Designator=D1(DO-35_02)
+Added Component: Designator=L1(TCK-047)
+Added Component: Designator=Q1(TO-264 AA)
+Added Component: Designator=R1(R_1206)
+Added Component: Designator=R2(CT-6EP)
+Added Component: Designator=U1(PID DC-DC Converter - duplicate)
+Added Component: Designator=U2(DIP14)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=48V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=12V Pin=C3-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=48V Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-1
+Added Pin To Net: NetName=HIGH-SIDE Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetL1_2 Pin=U1-14
+Added Pin To Net: NetName=12V Pin=U2-1
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=SD Pin=U2-3
+Added Pin To Net: NetName=NetR2_2 Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=NetD1_1 Pin=U2-12
+Added Pin To Net: NetName=NetU1_8 Pin=U2-13
+Added Member To Class: ClassName=Gate-drive Member=Component C1 Cap
+Added Member To Class: ClassName=Gate-drive Member=Component C2 Cap
+Added Member To Class: ClassName=Gate-drive Member=Component C3 Cap
+Added Member To Class: ClassName=Gate-drive Member=Component D1 1N4148
+Added Member To Class: ClassName=Gate-drive Member=Component L1 Inductor
+Added Member To Class: ClassName=Gate-drive Member=Component Q1 IXFK 34N80
+Added Member To Class: ClassName=Gate-drive Member=Component R1 1
+Added Member To Class: ClassName=Gate-drive Member=Component R2 Res Adj2
+Added Member To Class: ClassName=Gate-drive Member=Component U1 TDR 3-4812
+Added Member To Class: ClassName=Gate-drive Member=Component U2 IR21094

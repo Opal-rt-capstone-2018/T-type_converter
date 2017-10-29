@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=HV Member=NetU1_8
+Added Component: Designator=TP?(TP-SM-C-100)
+Added Component: Designator=TP?(TP-SM-C-100)
+Added Component: Designator=TP?(TP-SM-C-100)
+Added Component: Designator=TP?(TP-SM-C-100)
+Added Component: Designator=TP?(TP-SM-C-100)
+Added Pin To Net: NetName=HIGH-SIDE Pin=TP?-1
+Added Pin To Net: NetName=NetD1_1 Pin=TP?-1
+Added Pin To Net: NetName=NetD1_2 Pin=TP?-1
+Added Pin To Net: NetName=NetTP?_1 Pin=TP?-1
+Added Pin To Net: NetName=NetTP?_1 Pin=U2-2
+Added Net: Name=NetTP?_1
+Added Member To Class: ClassName=Gate-drive Member=Component TP? TP-SM-C-100
+Added Member To Class: ClassName=Gate-drive Member=Component TP? TP-SM-C-100
+Added Member To Class: ClassName=Gate-drive Member=Component TP? TP-SM-C-100
+Added Member To Class: ClassName=Gate-drive Member=Component TP? TP-SM-C-100
+Added Member To Class: ClassName=Gate-drive Member=Component TP? TP-SM-C-100
+Added Member To Class: ClassName=HV Member=Wire NetTP?_1
+Added Room: Name=Gate-drive

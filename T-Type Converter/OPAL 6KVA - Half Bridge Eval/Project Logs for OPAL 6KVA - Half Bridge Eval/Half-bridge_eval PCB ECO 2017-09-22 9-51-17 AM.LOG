@@ -1,0 +1,22 @@
+Added Component: Designator=TP1(TP-SM-C-100)
+Added Component: Designator=TP2(TP-SM-C-100)
+Added Component: Designator=TP3(TP-SM-C-100)
+Added Component: Designator=TP4(TP-SM-C-100)
+Added Component: Designator=TP5(TP-SM-C-100)
+Added Pin To Net: NetName=HIGH-SIDE Pin=TP2-1
+Added Pin To Net: NetName=NetD1_1 Pin=TP3-1
+Added Pin To Net: NetName=NetD1_2 Pin=TP4-1
+Added Pin To Net: NetName=NetTP1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetTP1_1 Pin=U1-8
+Added Pin To Net: NetName=NetTP1_1 Pin=U2-13
+Added Net: Name=NetTP1_1
+Added Pin To Net: NetName=NetTP5_1 Pin=TP5-1
+Added Pin To Net: NetName=NetTP5_1 Pin=U2-2
+Added Net: Name=NetTP5_1
+Added Member To Class: ClassName=Gate-drive Member=Component TP1 TP-SM-C-100
+Added Member To Class: ClassName=Gate-drive Member=Component TP2 TP-SM-C-100
+Added Member To Class: ClassName=Gate-drive Member=Component TP3 TP-SM-C-100
+Added Member To Class: ClassName=Gate-drive Member=Component TP4 TP-SM-C-100
+Added Member To Class: ClassName=Gate-drive Member=Component TP5 TP-SM-C-100
+Added Member To Class: ClassName=HV Member=Wire NetTP1_1
+Added Room: Name=Gate-drive

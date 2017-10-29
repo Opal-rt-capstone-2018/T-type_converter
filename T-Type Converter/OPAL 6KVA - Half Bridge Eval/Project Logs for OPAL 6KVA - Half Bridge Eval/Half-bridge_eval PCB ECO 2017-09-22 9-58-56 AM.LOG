@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=HV Member=NetTP1_1
+Added Pin To Net: NetName=NetTP1_1 Pin=C3-2
+Added Pin To Net: NetName=NetTP1_1 Pin=U2-1
+Change Net Name : Old Net Name=NetTP1_1 New Net Name=12V
+Added Member To Class: ClassName=HV Member=Wire 12V
+Added Room: Name=Gate-drive

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Half-bridge_eval.PcbDoc]
+   Generated File[Half-bridge_eval.TXT]
+   Generated File[Half-bridge_eval.LDP]
+   Generated File[Half-bridge_eval.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:04:52 PM On 2017-09-24
