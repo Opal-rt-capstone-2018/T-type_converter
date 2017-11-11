@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U8-3
+Change Net Name : Old Net Name=NetU4_2 New Net Name=Q1
+Change Net Name : Old Net Name=NetU5_2 New Net Name=Q2
+Change Net Name : Old Net Name=NetU6_2 New Net Name=Q3
+Change Net Name : Old Net Name=NetU8_2 New Net Name=Q4
+Added Member To Class: ClassName=Switches Member=Component U4 IR21094
+Added Member To Class: ClassName=Switches Member=Component U6 IR21094
