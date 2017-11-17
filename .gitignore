@@ -1,3 +1,5 @@
 #ignore previews and logs
-**/History
-*Preview
+**/History/
+/NPCarm/__Previews/
+*.LOG
+/T-Type Converter/__Previews/
