@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=GND Pin=*1-1
+Removed Pin From Net: NetName=GND Pin=*1-1
+Removed Pin From Net: NetName=GND Pin=*2-1
+Removed Pin From Net: NetName=GND Pin=*2-1
+Removed Pin From Net: NetName=GND Pin=*3-1
+Removed Pin From Net: NetName=GND Pin=*3-1
+Removed Pin From Net: NetName=GND Pin=*4-1
+Removed Pin From Net: NetName=GND Pin=*4-1
+Removed Member From Class: ClassName=Switches Member=*1
+Removed Member From Class: ClassName=Switches Member=*2
+Removed Member From Class: ClassName=Switches Member=*3
+Removed Member From Class: ClassName=Switches Member=*4
+Removed Member From Class: ClassName=HV Member=NetC27_1
+Removed Member From Class: ClassName=HV Member=NetC30_1
+Removed Member From Class: ClassName=HV Member=NetC37_1
+Removed Member From Class: ClassName=HV Member=NetL5_2
+Removed Member From Class: ClassName=HV Member=NetL6_2
+Removed Member From Class: ClassName=HV Member=NetU13_8
+Removed Member From Class: ClassName=HV Member=NetU15_8
+Removed Member From Class: ClassName=HV Member=NetU19_8
+Change Component Footprint: Designator=Q1 Old Footprint=TO-264 AA New Footprint=TO-247
+Change Component Footprint: Designator=Q2 Old Footprint=TO-264 AA New Footprint=TO-247
+Change Component Footprint: Designator=Q3 Old Footprint=TO-264 AA New Footprint=TO-247
+Change Component Footprint: Designator=Q4 Old Footprint=TO-264 AA New Footprint=TO-247
+Change Component Designator: OldDesignator=C27 NewDesignator=C1
+Change Component Designator: OldDesignator=C28 NewDesignator=C2
+Change Component Designator: OldDesignator=C29 NewDesignator=C3
+Change Component Designator: OldDesignator=C30 NewDesignator=C4
+Change Component Designator: OldDesignator=C31 NewDesignator=C5
+Change Component Designator: OldDesignator=C32 NewDesignator=C6
+Change Component Designator: OldDesignator=C33 NewDesignator=C7
+Change Component Designator: OldDesignator=C34 NewDesignator=C8
+Change Component Designator: OldDesignator=C35 NewDesignator=C9
+Change Component Designator: OldDesignator=C36 NewDesignator=C10
+Change Component Designator: OldDesignator=C37 NewDesignator=C11
+Change Component Designator: OldDesignator=C38 NewDesignator=C12
+Change Component Designator: OldDesignator=C39 NewDesignator=C13
+Change Component Designator: OldDesignator=L3 NewDesignator=L1
+Change Component Designator: OldDesignator=L4 NewDesignator=L2
+Change Component Designator: OldDesignator=L5 NewDesignator=L3
+Change Component Designator: OldDesignator=L6 NewDesignator=L4
+Change Component Designator: OldDesignator=R13 NewDesignator=R1
+Change Component Designator: OldDesignator=R14 NewDesignator=R2
+Change Component Designator: OldDesignator=R15 NewDesignator=R3
+Change Component Designator: OldDesignator=R16 NewDesignator=R4
+Change Component Designator: OldDesignator=R17 NewDesignator=R5
+Change Component Designator: OldDesignator=R18 NewDesignator=R6
+Change Component Designator: OldDesignator=R19 NewDesignator=R7
+Change Component Designator: OldDesignator=R20 NewDesignator=R8
+Change Component Designator: OldDesignator=U13 NewDesignator=U1
+Change Component Designator: OldDesignator=U14 NewDesignator=U2
+Change Component Designator: OldDesignator=U15 NewDesignator=U3
+Change Component Designator: OldDesignator=U16 NewDesignator=U4
+Change Component Designator: OldDesignator=U17 NewDesignator=U5
+Change Component Designator: OldDesignator=U18 NewDesignator=U6
+Change Component Designator: OldDesignator=U19 NewDesignator=U7
+Change Component Designator: OldDesignator=U20 NewDesignator=U8
+Added Component: Designator=H1(Dual C40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-247"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Black,Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/24006/sink-c40-253256-24006193.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/24006/sink-c40-253256-24006193.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/17118/70290407-17118119.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/17118/70290407-17118119.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/46412/sink-c40-46412139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/46412/sink-c40-46412139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "43.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "1.26inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ohmite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C40-058-AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Clip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=6.75, 10=6.57, 25=6.2052, 50=5.84, 100=5.475, 250=5.11, 500=4.745, 1000=4.6538 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins,Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "482"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C40-058-AE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "32mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC30_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetL3_2 New Net Name=NetL1_2
+Change Net Name : Old Net Name=NetL4_2 New Net Name=NetL2_2
+Change Net Name : Old Net Name=NetL5_2 New Net Name=NetL3_2
+Change Net Name : Old Net Name=NetL6_2 New Net Name=NetL4_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetU13_8 New Net Name=NetU1_8
+Change Net Name : Old Net Name=NetU14_8 New Net Name=NetU2_8
+Change Net Name : Old Net Name=NetU15_8 New Net Name=NetU3_8
+Change Net Name : Old Net Name=NetU16_2 New Net Name=NetU4_2
+Change Net Name : Old Net Name=NetU17_2 New Net Name=NetU5_2
+Change Net Name : Old Net Name=NetU18_2 New Net Name=NetU6_2
+Change Net Name : Old Net Name=NetU19_8 New Net Name=NetU7_8
+Change Net Name : Old Net Name=NetU20_2 New Net Name=NetU8_2
+Added Member To Class: ClassName=Switches Member=Component H1 Heatsink
+Added Member To Class: ClassName=HV Member=Wire NetC1_1
+Added Member To Class: ClassName=HV Member=Wire NetC4_1
+Added Member To Class: ClassName=HV Member=Wire NetC11_1
+Added Member To Class: ClassName=HV Member=Wire NetL1_2
+Added Member To Class: ClassName=HV Member=Wire NetL2_2
+Added Member To Class: ClassName=HV Member=Wire NetU1_8
+Added Member To Class: ClassName=HV Member=Wire NetU3_8
+Added Member To Class: ClassName=HV Member=Wire NetU7_8
