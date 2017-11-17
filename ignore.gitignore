@@ -1,0 +1,3 @@
+#ignore previews and logs
+**/History
+**/__Previews
