@@ -91,7 +91,7 @@ DocumentUniqueId=NSPCUCTN
 
 [Document4]
 DocumentPath=Main.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -108,7 +108,7 @@ DocumentUniqueId=CAIVXEIU
 
 [Document5]
 DocumentPath=Signals.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -142,7 +142,7 @@ DocumentUniqueId=EVNNTGOM
 
 [Document7]
 DocumentPath=DataOut.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
